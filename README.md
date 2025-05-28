@@ -2,6 +2,10 @@
 
 TaskMaster is a simple task management web application that allows users to create, manage, and track tasks. It provides an intuitive interface for adding tasks, marking them as completed, and viewing completed tasks.
 
+
+## Live Demo 
+Live Demo: https://todo-list-webapp-02.netlify.app/
+
 ## Features
 
 - **Add Tasks**: Users can add new tasks using the input field and "Add Task" button.
